@@ -3,3 +3,8 @@ body {
     font-weight: 300;
     font-style: normal;
 }
+
+.container {
+    min-width: 800px;
+    width: 800px;
+}
